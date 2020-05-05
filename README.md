@@ -9,5 +9,5 @@ With this, we were able to develop data analysis plans and project report on the
 
 ## Files
 * data folder contains all the data files we analysed for this report
-  * *211 Caller Data - Toronto - Needs - 2017-2019.csv* file is in a zipped due to it's big size
+  * *211 Caller Data - Toronto - Needs - 2017-2019.csv* is in a zipped file due to it's big size
 * img folder contains a single picture file containing geographical locations of service providers and locations of callers

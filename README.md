@@ -1,5 +1,5 @@
 # 211-Caller-Analysis
-** This was a group project worked on with Cassandra Julienne Mojica and Pablo Jose Araujo Camacho and myself **
+** This was a group project worked on with Cassandra Julienne Mojica and Pablo Jose Araujo Camacho **
 
 The main question that is being addressed in this report is ***"How can service offerings in Toronto be improved?"***.
 
